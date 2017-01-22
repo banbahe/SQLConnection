@@ -1,0 +1,6 @@
+C:\Dropbox\sourcetreee\6e980d0b\6e980d0b\bin\Debug\6e980d0b.exe.config
+C:\Dropbox\sourcetreee\6e980d0b\6e980d0b\bin\Debug\6e980d0b.exe
+C:\Dropbox\sourcetreee\6e980d0b\6e980d0b\bin\Debug\6e980d0b.pdb
+C:\Dropbox\sourcetreee\6e980d0b\6e980d0b\obj\Debug\6e980d0b.csprojResolveAssemblyReference.cache
+C:\Dropbox\sourcetreee\6e980d0b\6e980d0b\obj\Debug\6e980d0b.exe
+C:\Dropbox\sourcetreee\6e980d0b\6e980d0b\obj\Debug\6e980d0b.pdb
